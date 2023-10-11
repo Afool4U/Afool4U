@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afool4U
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Study
 - 📫 How to reach me : 
 My QQ number is 2312163474,
